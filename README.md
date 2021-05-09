@@ -1,8 +1,16 @@
-# Instagram UI Page Desgn
+# Redesigning Social Media Apps, Instagram
 
 
 <h2>
-This project includes total UI design pages in Instagram. The software used is Figma</h2>
+In this project I redesigned the iOS version of the Instagram using Figma keeping the color scheme of the Instagram brand as same.</h2>
+<h3></h3>
+<h5>Screenshots of my final project output have included in the below table.</h5>
+<h3>Special features and incusions</h3>
+- Icons have been taken from [Flaticon](https://flaticon.com/).
+- The presented keyboard has designed as such that main elements are not covered.
+- Royalty-free images has taken from [Unsplash](https://unsplash.com/) for the posts.
+- Royalty-free illustrations has been downloaded from [Undraw](https://undraw.com/).
+- Charts has been used on simple cards in order to keep the design clean.
 
  |  | |  |  |
 | :---: | :---: | :---: | :---: |
