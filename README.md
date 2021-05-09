@@ -2,7 +2,7 @@
 
 
 <h2>
-In this project I redesigned the iOS version of the Instagram using Figma keeping the color scheme of the Instagram brand as same.</h2>
+In this project I redesigned the iOS version of the Instagram using Figma</br> keeping the color scheme of the Instagram brand as same.</h2>
 <h3></h3>
 <h5>Screenshots of my final project output have included in the below table.</h5>
 <h3>Special features and incusions</h3>
