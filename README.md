@@ -1,4 +1,4 @@
-# Redesigning Social Media Apps, Instagram
+# Redesigning Social Media App; Instagram
 
 
 <h2>
