@@ -11,7 +11,7 @@ In this project I redesigned the iOS version of the Instagram using Figma keepin
 - The presented keyboard has designed as such that main elements are not covered.
 - Royalty-free images has taken from [Unsplash](https://unsplash.com/) for the posts.
 - Royalty-free illustrations has been downloaded from [Undraw](https://undraw.com/).
-- Charts has been used on simple cards in order to keep the design clean.
+- Charts have been used on simple cards in order to keep the design clean.
 
  |  | |  |  |
 | :---: | :---: | :---: | :---: |
