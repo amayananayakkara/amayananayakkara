@@ -6,6 +6,7 @@ In this project I redesigned the iOS version of the Instagram using Figma keepin
 <h3></h3>
 <h5>Screenshots of my final project output have included in the below table.</h5>
 <h3>Special features and incusions</h3>
+
 - Icons have been taken from [Flaticon](https://flaticon.com/).
 - The presented keyboard has designed as such that main elements are not covered.
 - Royalty-free images has taken from [Unsplash](https://unsplash.com/) for the posts.
